@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_table {
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0rem;
+}
+
+.input_button {
+    text-align: right;
+    padding: 1rem;
+    background-color: rgba(220, 220, 220, 0.411);
+    border: 1px solid gainsboro
+
+}
+.input_table {
+    border: 1px solid gainsboro;
+    padding: 1rem;
+}
+.btn_them {
+    color: green;
+    border: 2px solid green;
+    padding-left: 0.8rem;
+    padding-top: 0.2rem;
+    padding-right: 0.8rem;
+    padding-bottom: 0.2rem;
+    background-color: white;
+}
+.result_table {
+    margin-top: 2rem;
+}
+.header_result {
+    background-color: blue;
+    color: white;
+}
